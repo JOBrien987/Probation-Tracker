@@ -1,0 +1,9 @@
+case_id,client_name,risk_level,status,priority_score,last_contact_date,contact_overdue_days,active_violations,missed_treatment_appointments,next_court_date,days_to_court,exception_flags
+JUV-1001,Alex Carter,High,RED,100,2026-09-18,4,2,1,2026-10-10,4,Contact overdue by 4 day(s); 2 active violation(s); 1 missed treatment appointment(s); Court in 4 day(s)
+JUV-1003,Taylor Morgan,High,RED,100,2026-09-05,17,1,2,2026-10-08,2,Contact overdue by 17 day(s); 1 active violation(s); 2 missed treatment appointment(s); Court in 2 day(s)
+JUV-1007,Cameron Reed,Moderate,RED,73,2026-09-08,7,0,1,2026-10-09,3,Contact overdue by 7 day(s); 1 missed treatment appointment(s); Court in 3 day(s)
+JUV-1005,Morgan Diaz,Moderate,YELLOW,58,2026-09-20,2,1,0,2026-10-13,7,Contact overdue by 2 day(s); 1 active violation(s); Court in 7 day(s)
+JUV-1006,Riley Grant,High,YELLOW,30,2026-09-29,0,0,1,2026-10-20,14,1 missed treatment appointment(s)
+JUV-1002,Jordan Lee,Moderate,GREEN,8,2026-09-27,0,0,0,2026-10-27,21,No current exception flags
+JUV-1004,Casey Brooks,Low,GREEN,0,2026-09-16,0,0,0,2026-11-20,45,No current exception flags
+JUV-1008,Jamie Foster,Low,GREEN,0,2026-09-30,0,0,0,2026-12-05,60,No current exception flags

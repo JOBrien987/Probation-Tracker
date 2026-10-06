@@ -1,0 +1,9 @@
+case_id,client_name,risk_level,last_contact_date,required_contact_days,active_violations,missed_treatment_appointments,next_court_date,treatment_status,employment_school_status,notes
+JUV-1001,Alex Carter,High,2026-09-18,14,2,1,2026-10-10,Active,School,Fictitious training record.
+JUV-1002,Jordan Lee,Moderate,2026-09-27,14,0,0,2026-10-27,Compliant,Employed,Fictitious training record.
+JUV-1003,Taylor Morgan,High,2026-09-05,14,1,2,2026-10-08,Missed,Unemployed,Fictitious training record.
+JUV-1004,Casey Brooks,Low,2026-09-16,30,0,0,2026-11-20,Compliant,Employed,Fictitious training record.
+JUV-1005,Morgan Diaz,Moderate,2026-09-20,14,1,0,2026-10-13,Active,School,Fictitious training record.
+JUV-1006,Riley Grant,High,2026-09-29,7,0,1,2026-10-20,Active,Employed,Fictitious training record.
+JUV-1007,Cameron Reed,Moderate,2026-09-08,21,0,1,2026-10-09,Missed,School,Fictitious training record.
+JUV-1008,Jamie Foster,Low,2026-09-30,30,0,0,2026-12-05,Compliant,Employed,Fictitious training record.

@@ -1,0 +1,5 @@
+Built a probation caseload risk and compliance dashboard that automated deadline tracking, priority scoring, exception flagging, and supervisory reporting using structured case data.
+
+The project uses Python, pandas, and Streamlit to convert fictitious caseload records into a filterable operational dashboard with RED/YELLOW/GREEN status indicators and exportable supervisor reports.
+
+All data in the project is fictitious, and the scoring model is a portfolio demonstration rather than a validated supervision-risk instrument.
